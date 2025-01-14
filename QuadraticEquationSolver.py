@@ -1,5 +1,5 @@
 import math
-print("**Quadratic equation solver**")
+print("**----Quadratic equation solver----**")
 print('Quadratic equation standard format: ax\u00b2 + bx + c = 0')
 a = float(input("Enter the value for 'a' : "))
 b = float(input("Enter the value for 'b' : "))
